@@ -12,9 +12,6 @@ galaxy_info:
     versions:
     - 28
     - 29
-  - name: Ubuntu
-    versions:
-    - Bionic Beaver
 
   galaxy_tags:
     - terraform
