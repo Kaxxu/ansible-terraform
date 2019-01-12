@@ -1,6 +1,7 @@
+---
 galaxy_info:
   author: Paweł 'Kaxxu' Mentel
-  description: Simple role to download the newest Stable amd64/x64 Terraform version for Linux without using or setting variable.
+  description: Role to download the newest Stable Linux amd64/x64 Terraform without using or setting variable.
 
   license: MIT License
 
