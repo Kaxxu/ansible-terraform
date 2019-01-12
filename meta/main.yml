@@ -6,6 +6,15 @@ galaxy_info:
 
   min_ansible_version: 2.4
 
+  platforms:
+  - name: Fedora
+    versions:
+    - 28
+    - 29
+  - name: Ubuntu
+    versions:
+    - Bionic Beaver
+
   galaxy_tags:
     - terraform
     - cloud
