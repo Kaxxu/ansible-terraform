@@ -3,7 +3,7 @@
 Simple role to download the newest `stable amd64/x64` [Terraform](https://www.terraform.io/)
 version for Linux without using or setting variable.
 
-### Role Information
+## Role Information
 The Role will install Terraform in `/usr/bin/`.
 
 The final task include:
@@ -14,7 +14,7 @@ Included tag for every task:
 
 `tags: terraform`
 
-### File Structure
+## File Structure
 ```
 terraform-ansible
 ├── LICENSE
