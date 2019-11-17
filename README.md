@@ -1,6 +1,6 @@
-# terraform-ansible
+# Terraform Ansible Install
 
-Simple role to download the newest `stable amd64/x64` [Terraform](https://www.terraform.io/)
+Simple role to download and install the newest `stable amd64/x64` [Terraform](https://www.terraform.io/)
 version for Linux without using or setting variable.
 
 ## Role Information
